@@ -1,0 +1,19 @@
+h1, h2{
+    color: rgb(80, 42, 151);
+}
+h3{
+    color: #2e069d;
+}
+p{
+    color: rgb(146, 24, 180);
+}
+a{
+    background: rgb(201, 220, 226);
+}
+html{
+    background-color: rgb(108, 235, 235);
+}
+.imgsize{
+    width: 400px;
+    height: 300px;
+}
